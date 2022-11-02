@@ -7,7 +7,7 @@ Follow these instructions after deploying this repo on Cyclic.sh
 
 ## Set-up and configuration
 
-### **1.** Create discord application
+### **1.** Create discord applications
 
 Navigate to Discord's developer portal and create a new application
  - https://discord.com/developers/applications
